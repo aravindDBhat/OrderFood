@@ -2,11 +2,7 @@ body {
   margin: 0 1px 0 1px;
 }
 .Firstpagep1 {
-  background-image: linear-gradient(
-    to right,
-    rgb(105, 244, 154),
-    rgb(88, 197, 240)
-  );
+  background-image: linear-gradient(to right, #fff6ae, #feb3f0);
   height: 100%;
   width: 100%;
 }
@@ -68,11 +64,7 @@ li {
 }
 
 .Secondpagep1 {
-  background-image: linear-gradient(
-    to right,
-    rgb(105, 244, 154),
-    rgb(88, 197, 240)
-  );
+  background-image: linear-gradient(to bottom right, #fff6ae, #feb3f0);
   height: 100%;
   width: 100%;
   display: flex;
